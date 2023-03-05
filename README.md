@@ -17,9 +17,14 @@ Os clientes são os usuários que irão realizar as compras dos produtos das loj
 Os lojistas são ao mesmo tempo clientes, porém eles conseguem manipular os dados de suas lojas.
 
 Caso seja do interesse, estes são alguns dados para realizar testes no sistema.
+<ul>
+ <li>Administração: argelymanu@gmail.com</li>
+ <li>Lojista: maria@gmail.com ou miro@gmail.com</li>
+ <li>Cliente: 123@gmail.com</li>
+</ul>
 
-Administração: argelymanu@gmail.com
-Lojista: maria@gmail.com ou miro@gmail.com
-Cliente: 123@gmail.com
+<ul>
+ <li>Senha: 123123</li>
+</ul>
 
 Utilizei o xampp para simular o servidor do sistema, o arquivo do banco de dados consta na pasta de documentação, faça a importação do banco de dados com o nome de “popcenter”.
