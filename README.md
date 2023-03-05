@@ -22,7 +22,7 @@ Caso seja do interesse, estes são alguns dados para realizar testes no sistema.
  <li>Lojista: maria@gmail.com ou miro@gmail.com</li>
  <li>Cliente: 123@gmail.com</li>
 </ul>
-
+<hr>
 <ul>
  <li>Senha: 123123</li>
 </ul>
