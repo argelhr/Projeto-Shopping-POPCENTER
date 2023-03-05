@@ -6,8 +6,8 @@ Projeto desenvolvido para atender as matérias do terceiro semestre(Desenvolvime
 Existem três públicos que utilizam este sistema: 
 <ul>
  <li>Administração</li>
- <li>Administração</li>
- <li>Administração</li>
+ <li>Clientes</li>
+ <li>Lojistas</li>
 </ul>
 
 A administração realiza o gerenciamento dos departamentos das lojas, alocando e realocando as lojas para as pessoas que queiram alugar um espaço no shopping.
